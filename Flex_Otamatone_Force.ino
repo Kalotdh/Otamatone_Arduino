@@ -20,6 +20,9 @@ const int HIGH_MELODY[] = {
     1047,
 };
 
+
+
+
 const int Length_C = 1;
 const int Length_CD = 88.375;	// 도-레 값
 const int Length_DE = 175.75;	// 레-미 값
